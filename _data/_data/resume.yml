@@ -1,0 +1,214 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Jair Wuilloud"
+  label: "Data Scientist / Engineer / Researcher"
+  picture: assets/img/jwold.jpeg #"https://placehold.it/240x240"
+  email: "wuilloud@gmail.com"
+  summary: >
+    Data Scientist based in London with 10 years of professional experiences 
+    with large, tiny companies and startups.
+
+
+    Our latest works applies advantages of neuro inspired computing 
+    onto business cases like fast fuzzy searches, one shot learning and accelerate
+    Machine Learning computation.
+  location:
+    address: "27A Sylvester Road"
+    postalCode: "N2 8HN"
+    city: "East Finchley"
+    countryCode: "GB"
+    region: "London"
+  profiles:
+    - network: "gitHub"
+      username: "gilgameshjw"
+      url: "https://github.com/gilgameshjw"
+    - network: "LinkedIn"
+      username: "Jair Wuilloud"
+      url: "https://www.linkedin.com/in/jair-wuilloud-86028b60/"
+work:
+  - company: "Jair ltd"
+    position: "Consultant"
+    #website: "https://piedpiper.com"
+    startDate: "2013-12-01"
+    endDate: ""
+    summary:  
+      Consulting in data science for more than 20 entities, 
+      including well established companies and well founded startups. 
+      Some of the work is described in Portfolio.
+
+      * Creation of original technologies like humbaba, IVA, neurotrophic Labs, Humbaba, ...
+
+      * Co-creation of several companies as TaxiQ, neurotrophic Labs, Plex AI
+
+      * Collaboration with startups as Dataffirm, Mediaplayers, Faxi, Constellation AI, Guesser, ...
+
+      * Contracting with small and large entities as Conde Nast, Toyota, Just Eat, ...
+      
+
+        #* While main focus on the application and development of brain inspired technologies, 
+        #we have a solid expertise in machine / deep / reinforcement learning, 
+        #financial math and statistics as well as some physics.
+
+        #* We have years of practical expertise working with natural language processing, 
+        #bots, GPS, collaborative and recommender systems, as well as with huge datasets and 
+        #a long list of standard technologies and libraries (spark, aws, sklearn, pytorch, ...)."
+
+  - company: "Constellation AI"
+    position: "Senior Data Scientist"
+    #website: "https://piedpiper.com"
+    startDate: "Sep 2016"
+    endDate: "Feb 2019"
+    summary: "R&D for NLP and chatbot" 
+
+  - company: "Thomson Reuters"
+    position: "Data Scientist"
+    #website: "https://piedpiper.com"
+    startDate: "Aug 2014"
+    endDate: "Jan 2015"
+    summary: "Recommender systems and NLP" 
+
+  - company: "Deutsche Bank"
+    position: "Analyst"
+    #website: "https://piedpiper.com"
+    startDate: "Feb 2012"
+    endDate: "May 2014"
+    summary: "Financial models analysis and validation library"  
+
+  - company: "Institute for Theoretical Physics"
+    position: "Postdoctoral Researcher"
+    #website: "https://piedpiper.com"
+    startDate: "Nov 2009"
+    endDate: "Dec 2011"
+    summary: "QCD and Supersymmetry simulated on the lattice"  
+      #highlights:
+      #- "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
+      #- "Successfully won Techcrunch Disrupt"
+      #- "Optimized an algorithm that holds the current world record for Weisman Scores"
+
+#volunteer:
+#  - organization: "CoderDojo"
+#    position: "Teacher"
+#    website: "https://coderdojo.com/"
+#    startDate: "2012-01-01"
+#    endDate: "2013-01-01"
+#    summary: "Global movement of free coding clubs for young people."
+#    highlights:
+#      - "Awarded 'Teacher of the Month'"
+
+education:
+  - institution: "University of Muenster (WWU)"
+    area: "Numerical Particle Physics"
+    studyType: "Phd"
+    startDate: "Jun 2006"
+    endDate: "Feb 2010"
+    gpa: "Summa cum Laude"
+      #courses:
+      #- "DB1101 - Basic SQL"
+      #- "CS2011 - Java Introduction"
+  
+  - institution: "University of Geneva"
+    area: "Mathematical Physics"
+    studyType: "Master"
+    startDate: "Oct 2000"
+    endDate: "Mar 2005"
+    gpa: "5.25/6"
+      #courses:
+      #- "DB1101 - Basic SQL"
+      #- "CS2011 - Java Introduction"
+#awards:
+#  - title: "Digital Compression Pioneer Award"
+#    date: "2014-11-01"
+#    awarder: "Techcrunch"
+#    summary: "There is no spoon."
+publications:
+  
+  - name: "High Dimensional Computing for Public Safety"
+    publisher: "heroX Public Safety Challenge"
+    releaseDate: "Aug 2020"
+  - name: "Carpooling vs Public Transport: Impact on COVID spread"
+    publisher: "Faxi, Toyota"
+    releaseDate: "April 2020"
+   
+  - name: "Fast and light GPS processing via Coarse Coding"
+    publisher: "unpublished"
+    releaseDate: "March 2019"
+  - name: "IVA, a Chatbot coordinated via Sparse Distributed Memories"
+    publisher: "NICE, Heidelberg"
+    releaseDate: "September 2019"
+  - name: "Superpositions with Sparse Distributed Memories, High Dimensional and Dense Vectors"
+    publisher: "unpublished"
+    releaseDate: "March 2019"
+  - name: "System and method for encoding multiple Information sources including Human Language"
+    publisher: "unpublished"
+    releaseDate: "January 2019"
+  - name: "Past Research in Particle Physics"
+    #publisher: "Hooli"
+    #releaseDate: "Oct 2014"
+    #website: "https://www.researchgate.net/profile/Jair-Wuilloud"
+    website: "https://scholar.google.co.uk/citations?user=tPHe6kAAAAAJ&hl=en"
+    summary: "Theoretical particle Physics."
+skills:
+  - name: "Programming"
+    level: "2.5/3"
+    keywords:
+      - "Julia"
+      - "Python"
+      - "C++"
+      - "clojure(script)"
+  - name: "ML & Deep Learning"
+    level: "2.5/3"
+    keywords:
+      - "Sklearn"
+      - "Pytorch"
+      - "Keras"
+      - "Flux.jl"
+  - name: "AI"
+    level: "2.5/3"
+    keywords:
+      - "Brain inspired Computing"
+      - "Reinforcement Learning"
+      - "Conversational Agent"
+      - "Collaborative Systems"
+      - "Simulations"
+  - name: "Data Processing/Modelling"
+    level: "2.5"
+    keywords:
+      - "Spark"
+      - "NLP"
+      - "GPS" 
+      - "Behavioural Data"
+  - name: "Dev Ops"
+    level: "2.0/3"
+    keywords:
+      - "AWS/Linode/Azure"
+      - "Bash" 
+languages:
+  - language: "French"
+    fluency: "Native speaker"
+  - language: "English"
+    fluency: "Full professional proficiency"
+  - language: "German"
+    fluency: "Full professional proficiency"
+  - language: "Italian" 
+    fluency: "Full professional proficiency"
+  - language: "Portuguese"
+    fluency: "Elementary proficiency"
+
+interests:
+  - name: "Classical Singing, Strategy Games, Sports" 
+    #  - "spro"
+    #  - "eoeoe"
+    #  - "ss"
+    #- name: "Sport"
+    #keywords:
+    #  - "Ferrets"
+    #  - "Unicorns"
+    #- name: "Classical Singing"
+    #- name: "Strategy Games"
+    #references:
+    #- name: "Erlich Bachman"
+    #reference: >
+    #  It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+    #  Company proved that he will be a valuable addition to any company.
