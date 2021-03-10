@@ -174,11 +174,11 @@ skills:
     keywords:
       - "Spark, Hive"
       - "NLP, GPS, Behavioural data"
-  - name: "Dev Ops"
+  - name: "DevOps"
     level: "2.0/3"
     keywords:
-      - "AWS | Linode | Azure"
-      - "Bash" 
+      - "AWS, Linode, Azure"
+      - "Bash, Web Protocols" 
 languages:
   - language: "French"
     fluency: "Native speaker"
