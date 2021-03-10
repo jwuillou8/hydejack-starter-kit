@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Fast fuzzy holistic Encoding Retrieval
-caption: How I use Hydejack on my personal site.
+title: Fast fuzzy holistic Encoding & Retrieval
+caption: We encode & retrieve data of complex and sparse datasets.
 description: >
   Efficient encoding | retrieval of multiple data sources 
 date: 1 Jun 2020

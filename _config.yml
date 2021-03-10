@@ -51,6 +51,8 @@ author:
 menu:
   - title:             Work
     url:               /WORK/
+  - title:             Bla
+    url:               /Bla/
       #- title:             Technologies
       #url:               /TECHNOS/
   - title:             Technologies
