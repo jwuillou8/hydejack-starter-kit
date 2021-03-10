@@ -25,8 +25,9 @@ title:                 Jair Wuilloud
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Presentation of Jair Wuilloud, his work and services.
+  #Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
+  #with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
 tagline:               Simple and Energy efficient AI
@@ -376,10 +377,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                jair wuilloud # <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/gilgameshjw
 
 
 # Plugin Configs
