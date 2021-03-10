@@ -153,17 +153,11 @@ skills:
   - name: "Programming"
     level: "2.5/3"
     keywords:
-      - "Julia"
-      - "Python"
-      - "C++"
-      - "clojure(script)"
+      - "Julia | Python | C++ | clojure(script)"
   - name: "ML & Deep Learning"
     level: "2.5/3"
     keywords:
-      - "Sklearn"
-      - "Pytorch"
-      - "Keras"
-      - "Flux.jl"
+      - "Sklearn, Pytorch, Keras, Flux.jl"
   - name: "AI"
     level: "2.5/3"
     keywords:
@@ -175,14 +169,12 @@ skills:
   - name: "Data Processing/Modelling"
     level: "2.5"
     keywords:
-      - "Spark"
-      - "NLP"
-      - "GPS" 
-      - "Behavioural Data"
+      - "Spark, Hive"
+      - "NLP | GPS | Behavioural data"
   - name: "Dev Ops"
     level: "2.0/3"
     keywords:
-      - "AWS/Linode/Azure"
+      - "AWS | Linode | Azure"
       - "Bash" 
 languages:
   - language: "French"
