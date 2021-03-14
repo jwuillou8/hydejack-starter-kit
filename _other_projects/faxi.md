@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       faxi
-date:        1 Jul 2020
+date:        1 Jul 2019
 image:
   path:       /assets/img/past_projects/faxi_shinyapps@0,25x.jpg
   srcset:
