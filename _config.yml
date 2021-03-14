@@ -52,14 +52,10 @@ author:
 menu:
   - title:             Work
     url:               /WORK/
-      #- title:             Technologies
-      #url:               /TECHNOS/
   - title:             Technologies
     url:               /projects/
   - title:             Résumé
     url:               /resume/
-      #- title:             Portfolio
-      #url:               /docs/
   - title:             Past Projects
     url:               /other-projects/
 
@@ -96,7 +92,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/jw image-dark.jpg # sidebar-bg.jpg
+accent_image:          /assets/img/jw image-dark.jpg # image-light.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
