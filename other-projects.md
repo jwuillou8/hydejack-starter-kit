@@ -1,5 +1,5 @@
 ---
 layout: projects
-title: Other & past Projects
+title: Other Current & Past Projects
 show_collection: other_projects
 ---
