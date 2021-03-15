@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Neurotrophic Labs
-date:        1 Mar 2020
+date:        1 Mar 2021
 image:
   path:       /assets/img/past_projects/jwimage-light@0,25x.jpg
   srcset:
