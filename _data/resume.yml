@@ -175,10 +175,11 @@ skills:
       - "Spark, Hive"
       - "NLP, GPS, Behavioural data"
   - name: "Maths & Physics"
-    level: "2.0/3"
+    level: "2.5/3"
     keywords:
       - "Statistics, Inference Learning"
-      - "Financial Maths" 
+      - "Financial Maths"
+      - "Optimisation" 
   - name: "DevOps"
     level: "2.0/3"
     keywords:
