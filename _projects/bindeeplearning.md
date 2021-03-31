@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Interplay High Dimensional Computing / Machine Learning
+title:  HD Computing / Machine Learning
 caption: Integration SDM's / Neural Nets
 description: >
    Experiments on neuroinspired computing embeddings integrated with Deep and Machine Learning
@@ -17,12 +17,14 @@ links:
 sitemap: false
 ---
 
-Deep Learning and HD computing have very distinct qualities and advantages. 
+Machine & Deep Learning and High Dimensional computing have very distinct qualities and advantages. 
 
-I am running several experiments to compare these and also integrate both technologies.
+In my work, I am interested in comparisons and integration of the
+ aforementioned technologies.
 
-My work includes binary neural networks, binary embeddings and application of these strategies to various datasets.
-For instance, in certain cases we found that classification scores could be improved
-by using the above mentionned approaches. 
+My work includes binary neural networks, binary embeddings and application of these 
+strategies onto various datasets.
 
-#By using High dimensional computing to model data, we empirically found that classification scores could be improved or/and computational ressources reduced.
+As an example,  in many cases, I have found that classification scores could be improved
+preprocessing the data with HD computing. 
+
