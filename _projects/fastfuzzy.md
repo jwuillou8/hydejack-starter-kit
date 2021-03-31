@@ -22,10 +22,12 @@ sitemap: false
 ---
 
 
-Real life data is sparse and messy and in many instances, real world search engines require
-* simple, flexible data modelling 
-* fuzzy search with an intuitive scores
- 
+In order to deal with real world data sparsness and messiness,  real world search engines require
+* High speed
+* Simple, flexible data modelling 
+* Fuzzy search with an intuitive scores
+* No false negative 
+
 Mixing high dimensional computing with symbolic logic, one can deliver elegant solutions to 
 the above requirements by modelling and encoding datasets as sparse binary vectors. 
 Because computations are base on the simplest possible data structures, 
