@@ -1,9 +1,9 @@
 ---
 layout: project
 title: Fast fuzzy holistic Encoding & Retrieval
-caption: We encode & retrieve data of complex and sparse datasets.
+caption: We use Sparse Distributed Representations to encode & retrieve data of complex and sparse datasets
 description: >
-  Efficient encoding and retrieval of multiple data sources 
+  Efficient encoding and fuzzy retrieval with large data sources 
 date: 1 Jun 2020
 image: 
   path: /assets/img/projects/stressgraph1.jpg
@@ -21,11 +21,16 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-* Real life data is sparse and messy
-* In many instances, real world systems require simple, fast and fuzzy solutions
-* The ability to build simple memories allow to execute abstract queries at record speed
- 
-Mixing high dimensional computing with symbolic logic, one delivers elegant solutions, achieving cheaper computing with unequaled performance with high compression rates.
 
-Applications included GPS processing, behavioural and medical data. 
-Contact us for more information or to run a pilot.
+Real life data is sparse and messy and in many instances, real world search engines require
+* simple, flexible data modelling 
+* fuzzy search with an intuitive scores
+ 
+Mixing high dimensional computing with symbolic logic, one can deliver elegant solutions to 
+the above requirements by modelling and encoding datasets as sparse binary vectors. 
+Because computations are base on the simplest possible data structures, 
+such an engines allows to perform fuzzy searches
+at impressive speed and compression rate.
+
+Past and present applications included GPS processing, behavioural and medical data. 
+
