@@ -22,7 +22,7 @@ sitemap: false
 ---
 
 
-In order to deal with real world data sparsness and messiness,  real world search engines require
+In order to deal with real world data sparsness and messiness, many real world search engines require
 * High speed
 * Simple, flexible data modelling 
 * Fuzzy search with an intuitive scores
