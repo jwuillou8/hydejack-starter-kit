@@ -3,7 +3,7 @@ layout: project
 title: Humbaba
 caption: Brain of Brains learning any multidimensional sequences via one shot learning
 description: >
-  Humbaba uses neuroinspired computing to swiftly learns what needed to be painfully developed!
+  Humbaba uses neuroinspired computing and swiftly learns what needed to be painfully developed.
 date: 06 Mar 2021
 image: 
   path: /assets/img/projects/stresstestgraph.jpeg
@@ -22,10 +22,13 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-
 **Humbaba** is an agent capable of binding multiple services (interfaces or agents) learning their logic by one shot learning (or via single examples). 
+It is designed to scale up as "system of systems", allowing for flexibility
+and to build complex engines.
 
-This means that one do not need to be programmer to build complex logics, as this can be done via a simple graphical editor.
-As explained in the slides, **Humbaba** scales up as "brain of brains".
+There is no need anymore to hardcore complex and opaque rules, 
+as these communicate with a simple, human understandable language
+ that can be designed and visualised via a simple graphical editor.
 
-A MVP is live, contact me for more info or to build a solution.
+The technology has been demonstrated on several business cases. 
+
