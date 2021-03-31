@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Integration Binary / ML
+title: Interplay High Dimensional Computing / Machine Learning
 caption: Integration SDM's / Neural Nets
 description: >
    Experiments on neuroinspired computing embeddings integrated with Deep and Machine Learning
@@ -17,6 +17,12 @@ links:
 sitemap: false
 ---
 
-Deep Learning is costly in term of energy and computational ressources.
+Deep Learning and HD computing have very distinct qualities and advantages. 
 
-By using High dimensional computing to model data, we empirically found that classification scores could be improved or/and computational ressources reduced.
+I am running several experiments to compare these and also integrate both technologies.
+
+My work includes binary neural networks, binary embeddings and application of these strategies to various datasets.
+For instance, in certain cases we found that classification scores could be improved
+by using the above mentionned approaches. 
+
+#By using High dimensional computing to model data, we empirically found that classification scores could be improved or/and computational ressources reduced.
