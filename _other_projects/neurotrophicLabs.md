@@ -39,6 +39,10 @@ We list below the innovative aspects of the approach:
 ####  Easy design of scenarios & hypotheses
 A combination of symbolic algebra and neurocomputing techniques allows for a seamless modelling of patients.
 The app allows with autocompletion to enter several profile and diseases combinations.
+
+```mermaid
+Diagram or image here
+```
  
 
 #### Live Data based evaluation
@@ -48,9 +52,6 @@ We could process the whole data set described above within
 #### Online Learning 
 The user can train the app, editing and creating patient profiles to teach the app via examples.
 
-```mermaid
-Diagram or image here
-```
 
 #### Neuromorphic ”Engine”
 Patients histories are modeled as binary fingerprints, allowing for 
