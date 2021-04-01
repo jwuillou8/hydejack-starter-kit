@@ -8,7 +8,7 @@ image:
     1920w:   /assets/img/past_projects/jwimage-light.jpeg
     960w:    /assets/img/past_projects/jwimage-light@0,5x.jpg
     480w:    /assets/img/past_projects/jwimage-light@0,25x.jpg
-caption:     NL is a medical technology allowing MD's to design scenarii/hypotheses and get basic analyses in almost real time. 
+caption:     NL is a medical technology allowing MD's to design scenarii/hypotheses and get basic analyses in  real time. 
 description: >
   NL is a technology allowing MD's to design scenarii/hypotheses and get data based evaluations in almost real time. 
 links:
