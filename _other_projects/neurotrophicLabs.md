@@ -29,13 +29,22 @@ NL is a flexible technological solution helping MD’s to take data based decisi
 With this, we hope to impact positively on individuals health and finance.
 
 ## Presentation
+
 One can consult our 2 pagers [summary](https://drive.google.com/file/d/1kFk26bj8-DsL2qPPKjwrNW_KuKXl-xRf/view).
 
+<img src="../../assets/img/2pagerNice.png" width="600" height="100">
+
+<img src="../../assets/img/2pagerNice2.png" width="600" height="100">
+
+
 ## App:
+
 We have built a prototype processing 5 millions patient histories from the medicare research dataset. 
 This architecture demonstrates that MDs can model simple scenarios and get basic correlations and insights from real data,  very quickly.
 
 One can be play with the [app](http://neurotrophic-labs-live-system.herokuapp.com/).
 Live computations are off for security reasons.
 
+
+<img src="../../assets/img/nlfront.png" width="600" height="800">
 
