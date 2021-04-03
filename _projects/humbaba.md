@@ -14,6 +14,7 @@ image:
 layout: project
 links:
   - title: Slides
+    #url: https://drive.google.com/file/d/17kfp4tA2DIij1p8qTfZt2CVALmzkRnvG/view?usp=sharing
     url: https://drive.google.com/file/d/1Q8pIhAdf__AF4NXbCHZcdqhCi5LilRNH/view?usp=sharing
 accent_color: '#4fb1ba'
 accent_image:

@@ -1,0 +1,77 @@
+---
+layout:      project
+title:       Neurotrophic Labs
+date:        1 Mar 2021
+image:
+  path:       /assets/img/past_projects/jwimage-light@0,25x.jpg
+  srcset:
+    1920w:   /assets/img/past_projects/jwimage-light.jpeg
+    960w:    /assets/img/past_projects/jwimage-light@0,5x.jpg
+    480w:    /assets/img/past_projects/jwimage-light@0,25x.jpg
+caption:     NL is a medical technology allowing MD's to design patient and disease profiles and get correlations based on real datasets in  real time. 
+description: >
+  NL is a technology allowing MD's to design scenarii/hypotheses and get data based evaluations in real time. 
+links:
+  - title:   Prototype
+    url:     http://neurotrophic-labs-live-system.herokuapp.com
+  #- title:   Slides #Community Report
+  #  url:     https://drive.google.com/file/d/1iba4ccoW8jVP8kRXH5AvfI575r9ui6Vr/view?usp=sharing # https://faxi.shinyapps.io/NEXT/
+  #- title:   Video
+  #  url:     https://drive.google.com/file/d/0BwkQZAFeYw2ZUWVfejczQjkzTUE/view?usp=sharing
+featured:    false
+---
+
+# Neurotrophic Labs
+
+With Jeremy Martinez, a californian MD, 
+we have called neurotrophic Labs a collaboration aiming at
+developing innovative solutions for MD's.
+
+NL is a flexible technological solution helping MD’s to take data based decisions in real time.
+
+With this work, we are trying to support Doctors decision making, which should impact positively on individuals health and finance.
+
+## App:
+We have built a prototype processing 5 millions patient histories from the medicare research dataset. 
+This architecture demonstrates that MDs can model simple scenarios and get basic correlations and insights from real data,  very quickly.
+
+We list below the main aspects of the approach:
+####  Easy design of scenarios & hypotheses
+A combination of symbolic algebra and neurocomputing techniques allows for a seamless modelling of patients.
+The app allows with auto completion to enter several profile and diseases combinations. The database can be queried against and returns similar profiles. As an example  ($\{\}$ indicates lists):
+
+##### $$ patient\, \,  profile \times medical \, \, history \times \{ diseases \} \longrightarrow  \{ correlations \}$$
+Our UX also allows to model scenarios, alternatives and evaluate them quickly and in parallel.
+##### $$ \{patient\, \,  profiles \times medical \, \, history\} \times \{ diseases \} \longrightarrow  \{ correlations \}$$
+ 
+
+#### Live Data based evaluation
+We could perform the operations described above, on the whole data set described above within ~1 second on 8 CPU cores. 
+
+#### Online Learning 
+The user can train the app, editing and creating patient profiles to teach the app via examples ($\{\}$ indicates lists):
+##### $$ \{ patient\, \,  profiles\, examples\, 1\, +\, medical \, \, histories\, 1 \} \longrightarrow  \{diseases\, 1\}$$
+##### $$ \{ patient\, \,  profiles\, examples\, 2\, +\, medical \, \, histories\, 2\} \longrightarrow  \{ diseases \, 2\}$$
+##### $$\dots $$
+This mechanism allows for MDs to train the app, allowing to start with small datasets and to gradually learn.
+
+#### Neuromorphic ”Engine”
+Patients histories are modeled as binary fingerprints, allowing for 
+fuzzy matchings either by profile or by disease.
+
+Aside of the speed and flexibility, the other strength of the approach is the complete robust against false negatives
+(the system will have perfect matches against critical diseases).
+
+## Team:
+
+We are experienced consultants covering both medical and AI/technical spaces.
+
+Links to Jeremy website and projects: 
+
+
+
+
+
+
+
+
