@@ -10,7 +10,7 @@ image:
     480w:    /assets/img/past_projects/jwimage-light@0,25x.jpg
 caption:     NL is a medical technology allowing MD's to design patient and disease profiles and get correlations based on real datasets in  real time. 
 description: >
-  NL is a technology allowing MD's to design scenarii/hypotheses and get data based evaluations in almost real time. 
+  NL is a technology allowing MD's to design scenarii/hypotheses and get data based evaluations in real time. 
 links:
   - title:   Prototype
     url:     http://neurotrophic-labs-live-system.herokuapp.com
