@@ -13,7 +13,7 @@ description: >
   NL is a  medical technology supporting MD decision making  with real data, in  real time. 
 links:
   - title:   Presentation #Community Report
-    url:     https://drive.google.com/file/d/1kFk26bj8-DsL2qPPKjwrNW_KuKXl-xRf/view?usp=sharing     
+    url:     https://drive.google.com/file/d/1BWWtoDk1NdiUYRz1e8u3qKBy3sjOx9l1/view?usp=sharing
   - title:   Prototype
     url:     http://neurotrophic-labs-live-system.herokuapp.com
 featured:    false
