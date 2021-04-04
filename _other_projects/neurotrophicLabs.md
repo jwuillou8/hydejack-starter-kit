@@ -30,7 +30,7 @@ With this, we hope to impact positively on individuals health and finance.
 
 ## Presentation
 
-One can consult our 2 pagers [summary](https://drive.google.com/file/d/1kFk26bj8-DsL2qPPKjwrNW_KuKXl-xRf/view).
+One can consult our 2 pagers [summary](https://drive.google.com/file/d/1BWWtoDk1NdiUYRz1e8u3qKBy3sjOx9l1/view?usp=sharing).
 
 <img src="../../assets/img/2pagerNice.png" width="600" height="100">
 
