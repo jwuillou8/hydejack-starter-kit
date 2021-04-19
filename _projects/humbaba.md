@@ -31,8 +31,10 @@ as these communicate with a simple, human understandable language
  that can be designed and visualised via a simple graphical editor.
 
 The technology has been demonstrated on several business cases. 
+The project state is an advanced prototype and two front ends+one API are available.   
 
 
 Linked above, basic slides [slides_basic](https://drive.google.com/file/d/1Q8pIhAdf__AF4NXbCHZcdqhCi5LilRNH/view?usp=sharing) are available.
 
-To read a more detailed presentation about it, [slides_details](https://drive.google.com/file/d/1FQb001_X5UBgZEOkmgiUyp3RPqrnxF3G/view?usp=sharing). 
+To read a more detailed presentation about it, [slides_details](https://drive.google.com/file/d/1HhNO5EnAX7EiREgOyWAaF9vrX6mH1TT3/view?usp=sharing).
+
