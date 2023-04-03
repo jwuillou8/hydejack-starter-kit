@@ -22,5 +22,5 @@ links:
 featured:    false
 ---
 
-Unfortunatley, the project was stopped in 2018, mainly because of tensions around the shares...
+Thinktopic was a software development boutique and they have used a sligthtly improved version of the code for multiple applications in their work.
 

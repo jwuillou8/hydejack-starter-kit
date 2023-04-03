@@ -6,11 +6,14 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
+#bundle update jekyll-sass-converter
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.1"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
+
+gem "jekyll-sass-converter", "~> 2.0"
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
@@ -41,6 +44,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
+  # gem "jekyll-sass-converter", "~> 2.0"
 
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"

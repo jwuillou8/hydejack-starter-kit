@@ -1,8 +1,8 @@
 ---
 layout: projects
-title: Applications
+title: Technologies
 description: >
-  Application to real world problems
+  My current work on interesting and real world problems
 
 #description: > 
 #	The technologies we have developed for real world problems:

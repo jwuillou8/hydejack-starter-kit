@@ -24,4 +24,6 @@ featured:    false
 At faxi, I worked mainly on real time carpooling recommendations and community monitoring.
 Community monitoring is using an optimisation algorithm written in julia (JuMP).
 
-In order to fasten the computation, I have also binarised GPS using among others coarse coding. 
+In order to fasten and allow for fuzzy computation, I have binarised GPS using a mix of High Dimensional Computing with SDR's and coarse coding. 
+
+Faxi also asked me to study the impact of [carpooling on covid diffusion](https://drive.google.com/file/d/1-YbDpaBvvR0C3ttNF9hTc4oQN_IsAxPR/view?usp=sharing), which is a document generated from zero within just 4 days.

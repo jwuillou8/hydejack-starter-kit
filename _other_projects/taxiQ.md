@@ -21,5 +21,5 @@ links:
 featured:    false
 ---
 
-Unfortunatley, the project was stopped in 2018, mainly because of tensions around the shares...
+The project, detailed in the links above was stopped in 2018, mainly because of legal tensions with one partner.
 

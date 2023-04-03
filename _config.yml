@@ -28,7 +28,7 @@ description:           >
   Presentation of Jair Wuilloud, his work and services.
 
 # A shorter description for the sidebar.
-tagline:               Simple and efficient AI
+tagline:  Lead AI Engineer -- Phd in Physics #Advanced and efficient AI
 
 # A list of keywords for your blog
 keywords:              []
@@ -48,13 +48,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Work
-    url:               /WORK/
-  - title:             Technologies
-    url:               /projects/
-  - title:             Résumé
+
+  - title:             About Me #Résumé
+    url:               /ABOUTME/
+  - title:             CV #Résumé
     url:               /resume/
-  - title:             Projects
+  - title:             My Expertise
+    url:               /WORK/
+  - title:             Current and Past Projects
     url:               /other-projects/
 
 
@@ -84,7 +85,7 @@ paginate_path:         /blog/:num/
 
 theme: jekyll-theme-hydejack
 # remote_theme: hydecorp/hydejack@v9
-
+remote_theme: hydecorp/hydejack@v9.1.6
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
